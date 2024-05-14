@@ -17,3 +17,4 @@
 - *Python and HDF5* by Andrew Collette
 - *Advances in Financial Machine Learning* by Marcos Lopez de Prado
 - *Machine Learning for Asset Managers*
+- *Python for Finance*
